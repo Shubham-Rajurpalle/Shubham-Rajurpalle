@@ -10,7 +10,7 @@
 
 ### 📈 Coding Profiles:
 - **LeetCode**: 50+ problems solved
-- **GeeksforGeeks**: 200+ problems solved
+- **GeeksforGeeks**: 250+ problems solved
 
 ### 📫 Contact:
 - Email: rajurpalleshubham1802@gmail.com
