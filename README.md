@@ -1,16 +1,27 @@
-# 👋 Hi, I’m Shubham Rajurpalle
-**Android Developer | Kotlin Enthusiast**
+👋 Hi, I’m Shubham Rajurpalle
 
-### 🌱 Learning:
-- Android Studio | Kotlin | Jetpack Components
+Android Developer | Kotlin Enthusiast
 
-### 💼 Projects:
-- **IPL 25**: Cricket app with live scores, memes, chat (Kotlin, Firebase, MVVM)
-- **Focus App**: Productivity app with Pomodoro and task blocking (Kotlin, SQLite, Room)
+🌱 Learning:
 
-### 📈 Coding Profiles:
-- **LeetCode**: 50+ problems solved
-- **GeeksforGeeks**: 250+ problems solved
+Android Studio | Kotlin | Jetpack Components | React Native
 
-### 📫 Contact:
-- Email: rajurpalleshubham1802@gmail.com
+💼 Projects:
+
+IPL 25: Cricket app with live scores, memes, and chat (Kotlin, Firebase, MVVM)
+
+StudyNow: Productivity app to help users work with discipline and avoid mobile interruptions (Kotlin, Firebase)
+
+HelpMate: App connecting users with part-time workers for home services (Kotlin, Firebase, MVVM)
+
+E-commerce Seller Management App: Freelance project for managing sellers, inventory, and orders (Kotlin, Figma for UI Design)
+
+📈 Coding Profiles:
+
+LeetCode: 50+ problems solved
+
+GeeksforGeeks: 250+ problems solved
+
+📢 Contact:
+
+Email: rajurpalleshubham1802@gmail.com
